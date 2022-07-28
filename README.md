@@ -24,3 +24,6 @@
 
 [![BekjonIshpulatov's github stats](https://github-readme-stats.vercel.app/api?username=bekjon-me&show_icons=true&theme=react)](https://github.com/bekjon-me/github-readme-stats)
 
+### Using languages
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=bekjon-me&show_icons=true&theme=react)
+
