@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/bekjon-ishpulatov-344984230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bekjon-ishpulatov-344984230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bekjonishpulatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bekjon-ishpulatov-344984230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15994259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15994259" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bekjon.ishpulatov.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bekjon.ishpulatov.7/" height="30" width="40" /></a>
 <a href="https://instagram.com/bekjonishpulatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bekjonishpulatov" height="30" width="40" /></a>
