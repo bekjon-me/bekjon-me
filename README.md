@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **React, React-native, Ruby**
-
-- 💬 Ask me about **React, React-native, firebase**
+- 💬 Ask me about **React, React-native, Vue3**
 
 - 📫 How to reach me **bekjonishpulatov8@gmail.com**
 
