@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 💬 Ask me about **Vue, React, React-native**
+- 💬 Ask me about **Vue, Laravel, React**
 
 - 📫 How to reach me **bekjonishpulatov8@gmail.com**
 
